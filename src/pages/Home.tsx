@@ -10,7 +10,7 @@ const Home = () => {
       aria-label="Home page"
       sx={{
         minHeight: '100vh',
-        backgroundImage: 'url("/barnana1.jpg")',
+        backgroundImage: 'url("/barnana/barnana1.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         position: 'relative',
